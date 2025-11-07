@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Tejal Zalke</h1>
 
 <div align="center">
-  <img src="https://github.com/tejasz8080/tejasz8080/blob/main/banner.png" alt="Data Analyst Banner">
+  <img src="https://github.com/tejasz8080/tejasz8080/blob/main/Untitled%20design.jpg" alt="Data Analyst">
 </div>
 
 <h3 align="center">A passionate Data Analyst from India. I work in the Corporate IT Sector </a></h3>
