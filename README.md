@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/tejasz8080">
-    <img src="https://img.shields.io/github/followers/sonbarse17?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/tejasz8080?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/tejal-zalke">
-    <img src="https://img.shields.io/badge/LinkedIn-Sushant%20Sonbarse-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tejal%20Zalke-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
