@@ -4,7 +4,7 @@
   <img src="https://github.com/tejasz8080/tejasz8080/blob/main/Untitled%20design.jpg" alt="Data Analyst">
 </div>
 
-<h3 align="center">A passionate Data Analyst from India. I work in the Corporate IT Sector </a></h3>
+<h3 align="center">A passionate AI Engineer from India. I work in the Corporate IT Sector </a></h3>
 
 <p align="center">
   <a href="https://github.com/tejasz8080">
@@ -22,7 +22,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/tejasz8080](https://github.com/tejasz8080)  
-- 💬 Ask me about **Data Analyst & Data engineer**  
+- 💬 Ask me about **AI Engineer & Data engineer**  
 - 📫 How to reach me **tejaszalke@gmail.com**
 
 ---
@@ -74,7 +74,4 @@
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
  
 🤝 Open to **Project Collaborations**  
-💼 Offering **Data Analyst Consulting / Mentorship**  
 📧 Let’s chat: [tejaszalke@gmail.com](tejaszalke@gmail.com)
-
-> *"Helping people crack Data Analyst with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
