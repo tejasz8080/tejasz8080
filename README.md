@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Tejal Zalke</h1>
 
 <div align="center">
-  <img src="" alt="Data Analyst">
+  <img src="" alt="AI Engineer">
 </div>
 
 <h3 align="center">A passionate AI Engineer from India. I work in the Corporate IT Sector </a></h3>
